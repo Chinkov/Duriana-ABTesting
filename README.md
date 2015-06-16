@@ -26,3 +26,6 @@
 
 ### Example dashboard
 ![Dashbord](https://github.com/duriana/ABTestingApp/dashboard.png)
+
+### Diagram
+![Diagram](https://files.slack.com/files-pri/T02KVUK8A-F052QM8N9/abtestingv3.png)
