@@ -28,4 +28,4 @@
 ![Dashbord](https://github.com/duriana/Duriana-ABTesting/blob/master/Dashbord.png)
 
 ### Diagram
-![Dashbord](https://github.com/duriana/Duriana-ABTesting/blob/master/Diagram.png)
+![Dashbord](https://github.com/duriana/Duriana-ABTesting/blob/master/diagram.png)
