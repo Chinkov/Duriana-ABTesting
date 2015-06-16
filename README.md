@@ -25,7 +25,7 @@
 ===
 
 ### Example dashboard
-![Dashbord](https://github.com/duriana/ABTestingApp/dashboard.png)
+![Dashbord](https://github.com/duriana/Duriana-ABTesting/blob/master/Dashbord.png)
 
 ### Diagram
 https://cl.ly/image/0R430D2j0l1c
